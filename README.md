@@ -1,4 +1,2 @@
 # Joanne-Sites
-This folder is a place to store all of the websites I have created
-Feel free to edit or message me to give me constructive feedback!:)
-Please remember to credit me if you decide to build off of my code! 
+This is a website I made in grade 10 while I learned HTML+CSS in class while I tested out basic concepts that I learned during that time. 
